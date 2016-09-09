@@ -1,6 +1,6 @@
-## Sample app with Storybook Knobs
+## Sample app with [Storybook Knobs](https://github.com/kadirahq/storybook-addon-knobs)
 
-Live Demo: 
+[Live Demo](https://goo.gl/uX9WLf)
 
 Usage:
 
