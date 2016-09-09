@@ -1,0 +1,25 @@
+{
+  "name": "storybooks-knobs-example",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.4.1",
+    "@kadira/storybook": "^2.5.2"
+  },
+  "dependencies": {
+    "@kadira/storybook-addon-knobs": "0.0.4",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "storybook": "start-storybook -p 9009",
+    "build-storybook": "build-storybook"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/react-scripts/config/eslint.js"
+  }
+}
